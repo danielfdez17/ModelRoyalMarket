@@ -736,7 +736,7 @@
     <generalization xmi:id="_qM0UYKA0Ee6oJ9Jcex41IA" general="_51ZoQKAzEe6oJ9Jcex41IA"/>
     <ownedAttribute xmi:id="_Pg970KA_Ee6bB78SZqE1_w" name="commonId" visibility="private"/>
   </packagedElement>
-  <packagedElement xmi:type="uml:Class" xmi:id="_-Lb0YKAzEe6oJ9Jcex41IA" name="Bill">
+  <packagedElement xmi:type="uml:Class" xmi:id="_-Lb0YKAzEe6oJ9Jcex41IA" name="Sale">
     <ownedAttribute xmi:id="_ob_P8KA0Ee6oJ9Jcex41IA" name="client" visibility="private" type="_51ZoQKAzEe6oJ9Jcex41IA" association="_ob-o4KA0Ee6oJ9Jcex41IA">
       <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_ob_P8qA0Ee6oJ9Jcex41IA" value="*"/>
       <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_ob_P8aA0Ee6oJ9Jcex41IA"/>
